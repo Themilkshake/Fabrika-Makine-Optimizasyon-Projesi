@@ -3,7 +3,7 @@
 :rocket: Seydi Ali İçlek
 
 fabrika_makine_optimizasyon_projesi_afis-1.png
-![fabrika_makine_optimizasyon_projesi_afis-1.png].
+![fabrika_makine_optimizasyon_projesi_afis-1.png]
 ![Yazılım Proje sunumu (1)_page-0002](https://github.com/user-attachments/assets/6ff483bb-ee6c-4d70-be86-cbb83161274e)
 ![Yazılım Proje sunumu (1)_page-0003](https://github.com/user-attachments/assets/ea65732c-5ab7-4c38-a1f9-3a8dab15c012)
 ![Yazılım Proje sunumu (1)_page-0004](https://github.com/user-attachments/assets/b1a82258-324c-4acb-b9ff-3ee80e37c592)
