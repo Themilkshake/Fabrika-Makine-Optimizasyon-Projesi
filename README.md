@@ -1,9 +1,8 @@
 # Fabrika-Makine-Optimizasyon-Projesi
 
-# Yapay Zeka Tabanlı Yüz Tanıma Destekli Web Sitesi
+:rocket: Seydi Ali İçlek
 
-:rocket: Betül Kış - Seydi Ali İçlek :white_check_mark:
-
+fabrika_makine_optimizasyon_projesi_afis-1.png
 ![Yazılım Proje sunumu (1)_page-0001](https://github.com/user-attachments/assets/1dc1df89-ba7e-4729-bfb0-c86275b5a925)
 ![Yazılım Proje sunumu (1)_page-0002](https://github.com/user-attachments/assets/6ff483bb-ee6c-4d70-be86-cbb83161274e)
 ![Yazılım Proje sunumu (1)_page-0003](https://github.com/user-attachments/assets/ea65732c-5ab7-4c38-a1f9-3a8dab15c012)
